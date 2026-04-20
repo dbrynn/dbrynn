@@ -10,9 +10,14 @@ I am a data science student learning web development and am excited to use what 
 - Creating a personal portfolio
 - Learning React by building a weather app.
 
-# Let's Connect!
+## Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/brynndevers/
 - Email: deversbe@gmail.com
 
-# My Projects
+## My Projects
 https://github.com/dbrynn/deversSite 
+
+## Beyond Code
+- I am a NCAA lacrosse player
+- I play 7 instruments
+- I can juggle
