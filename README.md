@@ -13,3 +13,6 @@ I am a data science student learning web development and am excited to use what 
 # Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/brynndevers/
 - Email: deversbe@gmail.com
+
+# My Projects
+https://github.com/dbrynn/deversSite 
