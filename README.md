@@ -15,7 +15,8 @@ I am a data science student learning web development and am excited to use what 
 - Email: deversbe@gmail.com
 
 ## My Projects
-https://github.com/dbrynn/deversSite 
+A final project from my web development class.
+- https://github.com/dbrynn/deversSite 
 
 ## Beyond Code
 - I am a NCAA lacrosse player
